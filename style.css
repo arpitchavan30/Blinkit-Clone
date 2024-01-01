@@ -432,6 +432,7 @@ td {
       text-align: justify;
       padding-right:10px;
   }
+
   #icons{
       display: flex;
       flex-direction: column;
@@ -475,4 +476,6 @@ td {
   #catogeries {
       width: 100%
   }
+
+  
 } 
